@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Specflow.WebDriver.Tests", "Specflow.WebDriver.Tests\Specflow.WebDriver.Tests.csproj", "{DDEBF54C-F3AF-454D-B3D9-C06E328B9767}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDEBF54C-F3AF-454D-B3D9-C06E328B9767}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDEBF54C-F3AF-454D-B3D9-C06E328B9767}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDEBF54C-F3AF-454D-B3D9-C06E328B9767}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDEBF54C-F3AF-454D-B3D9-C06E328B9767}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A9244E69-52FA-427C-9D6C-73BBC66C7B6A}
+	EndGlobalSection
+EndGlobal
